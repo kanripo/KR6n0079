@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 三無性論
+#+DATE: 2015-08-30 20:57:42.419778
+#+PROPERTY: JUAN 0
